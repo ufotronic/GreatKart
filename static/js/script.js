@@ -52,9 +52,19 @@ $(document).ready(function() {
 	} // end if
 
 
-
+    setTimeout(function(){
+        alert('hello')
+        $('#message').fadeOut('slow')
+      }, 4000)
+    
 
     
 }); 
 // jquery end
+
+
+setTimeout(function(){
+    alert('hello')
+    $('#message').fadeOut('slow')
+  }, 4000)
 
