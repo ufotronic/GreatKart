@@ -146,9 +146,4 @@ MESSAGE_TAGS = {
     messages.ERROR: "danger",
 }
 
-# SMTP configuration
-EMAIL_HOST = 'mail.mydomain.fr'
-EMAIL_PORT = 26
-EMAIL_HOST_USER = 'info@mydomain.fr'
-EMAIL_HOST_PASSWORD = 'password'
-EMAIL_USE_TLS = False
+
