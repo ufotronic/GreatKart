@@ -147,3 +147,9 @@ MESSAGE_TAGS = {
 }
 
 
+# SMTP configuration
+EMAIL_HOST = 'mail.rechaudgaz.fr'
+EMAIL_PORT = 26
+EMAIL_HOST_USER = 'info@rechaudgaz.fr'
+EMAIL_HOST_PASSWORD = 'rechaudgaz123'
+EMAIL_USE_TLS = False
